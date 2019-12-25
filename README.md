@@ -10,7 +10,7 @@ The App is only useful on large tablets with a screen size of 9" or 10". You may
 
 ## The main screen
 
-The left column (only visible on screens large enough) works as info center with links to some important pages. 
+The left column (only visible on screens >= 1280px) works as info center with links to some important pages. 
 
 The right column consists of several forms:
 * Overall length of talk. Use the start Button to start the countdown. This will lock the talk length.
